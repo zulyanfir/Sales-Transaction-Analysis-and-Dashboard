@@ -31,4 +31,3 @@ Project ini berisi analisis data transaksi penjualan yang bertujuan untuk memaha
 ---
 
 ## Thank you for stopping by 😊🙌
-Terima kasih sudah meluangkan waktu untuk melihat project saya ini. Semoga analisis yang disajikan bermanfaat dan dapat menjadi referensi untuk pengembangan analisis lebih lanjut.
